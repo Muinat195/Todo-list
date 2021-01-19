@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(173, 153, 184);
+    background-image: url(/img/pexels-polina-kovaleva-5717479.jpg);
+    background-size: cover;
+    
+    }
+    .ass{
+        margin-left: 35%;
+    }
+    .enter{
+        width: 350px;
+        margin-left: 450px;
+        height: 30px;
+    }
+    .hd{
+        text-align: center;
+        margin-top: 70px;
+    }
+    .bttn{
+        /* margin-left: -5px; */
+        height: 40px;
+        width: 100px;
+        background-color: blue;
+        border-radius: 8px;
+    }
+    .oruko{
+        font-size: 10px;
+        color: white;
+        margin-top: -20px;
+        margin-left: -500px;
+        
+    }
+    .ojo{
+        margin-right: 5px;
+        margin-left: -20px;
+    }
